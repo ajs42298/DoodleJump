@@ -9,6 +9,6 @@ Things to Download
 
 Set-up Ubuntu: https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
-In Ububtu:
+In Ubuntu:
 1. sudo apt-get update // update ubuntu
 2. sudo apt-get install freeglut3-dev // install glut library
